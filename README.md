@@ -9,7 +9,7 @@ About me:
 - 💬 Ask me about Web Development Full Stack
 - 📫 How to reach me: [My Website](https://leonardbauer.com)
 - 😄 Pronouns: atk/heli
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with ... -->
 
