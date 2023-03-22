@@ -8,7 +8,7 @@ About me:
 - 🌱 I’m currently learning node.js
 - 💬 Ask me about Web Development Full Stack
 - 📫 How to reach me: [My Website](https://leonardbauer.com)
-- 😄 Pronouns: ...
+- 😄 Pronouns: atk/heli
 - ⚡ Fun fact: ...
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with ... -->
