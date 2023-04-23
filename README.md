@@ -5,7 +5,7 @@
 
 About me:
 - 🔭 I’m currently working on fileexchange.net
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning raycasting
 - 💬 Ask me about Web Development Full Stack
 - 📫 How to reach me: [My Website](https://leonardbauer.com)
 - 😄 Pronouns: atk/heli
